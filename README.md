@@ -1,5 +1,7 @@
 # hands-on-ml-study
 
+![HandsOnML](https://www.hanbit.co.kr/data/books/B7033438574_l.jpg)
+
 `핸즈 온 머신러닝 (2판)` 책을 읽고 진행하는 스터디입니다.
 
 ## 학습 목표
@@ -8,11 +10,16 @@
 - 향후 프로젝트에 사용할 수 있는 변환 라이브러리를 점진적으로 구축합니다.
 - `scikit-learn`, `pandas`, `pytorch`등 실제 제품을 만드는 데 쓰이는 파이썬 프레임워크들을 익힙니다.
 
+<br>
+<br>
+
 ## 진행 순서
 
 [목,금,토,일] : 읽고 생각하기
 [     월    ] : 대화하면서 생각하기
 [     수    ] : 실습하면서 생각하기
+
+<br>
 
 ### 읽고 생각하기
 
@@ -26,11 +33,15 @@
 
 분류해 `월요일`에 진행하는 **대화하면서 생각하기**에서 `의문점`들을 나눕니다.
 
+<br>
+
 ### 대화하면서 생각하기
 
 `의문점`들을 해소하는 시간입니다.
 
 당일에 모든 `의문점`들을 해소하는 것을 목표로 합니다.
+
+<br>
 
 ### 실습하면서 생각하기
 
@@ -38,16 +49,25 @@
 
 코드를 돌려보면서 책의 내용을 확인하고 `도구`들을 익히는 시간을 갖습니다.
 
+<br>
+<br>
+
 ## 산출물
 
 스터디를 진행하면서 남는 자료들입니다.
 
+<br>
+
 ### 대화하면서 생각하기
 
-**1주 차** : [Link](https://docs.google.com/presentation/d/1CvyL3EVgHQKlXW1z4RgCl99yJDVgRF9XYaO--u5aD2A/edit?usp=sharing)
+**1주 차** : [02장 머신러닝 프로젝트 처음부터 끝까지](https://docs.google.com/presentation/d/1CvyL3EVgHQKlXW1z4RgCl99yJDVgRF9XYaO--u5aD2A/edit?usp=sharing)
+
+<br>
 
 ### 실습하면서 생각하기
 
 **1주 차**
 
-[구씨\_T1003](https://deepnote.com/publish/09cb3043-3623-42eb-919e-692ed710b494)
+좋은 성능의 모델을 만드는 것보다 파이프라인을 구축하는 것을 목표로 했습니다.
+
+- [구씨\_T1003](https://deepnote.com/publish/09cb3043-3623-42eb-919e-692ed710b494)
