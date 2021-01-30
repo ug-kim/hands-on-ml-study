@@ -61,6 +61,7 @@
 ### 대화하면서 생각하기
 
 **1주 차** : [02장 머신러닝 프로젝트 처음부터 끝까지](https://docs.google.com/presentation/d/1CvyL3EVgHQKlXW1z4RgCl99yJDVgRF9XYaO--u5aD2A/edit?usp=sharing)
+**1주 차 Quiz** : [1주 차 Quiz Link](https://forms.gle/NhgsbUYVLqRW15157)
 
 <br>
 
