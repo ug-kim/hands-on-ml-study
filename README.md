@@ -71,5 +71,20 @@
 
 좋은 성능의 모델을 만드는 것보다 파이프라인을 구축하는 것을 목표로 했습니다.
 
-- [구씨\_T1003](https://deepnote.com/publish/09cb3043-3623-42eb-919e-692ed710b494)
+- [건모\_T1003](https://deepnote.com/publish/09cb3043-3623-42eb-919e-692ed710b494)
 - [유지\_T1029](https://deepnote.com/project/9c56916b-37fd-4003-b3cb-cb6ce0f6bd55#%2Fnotebook.ipynb)
+
+
+**2주 차**
+
+파이프라인을 구축하는 것을 목표로 한 프로젝트입니다.
+
+**Misson 01**  Mnist 데이터셋으로 분류기를 만들어 테스트 세트에서 97% 달성하기
+
+- [template](https://colab.research.google.com/drive/1Y_UR4Okafi5UWnq1iKiQnDRq9nrciQKq?usp=sharing)
+- [건모\_T1003](https://colab.research.google.com/drive/1Ldmh9NeJPbcrg6RLlm7IrL3dj10aJict?usp=sharing)
+
+**Misson 02**  타이타닉 데이터셋에 도전해보기!
+
+- [template](https://deepnote.com/publish/834148fc-607e-4192-9c5b-e42792bd31ac)
+- [건모\_T1003, 서윤\_T1088](https://deepnote.com/project/01e779cf-7c56-4122-b7fd-39f6430c671b)
