@@ -64,6 +64,10 @@
 
 **1주 차 Quiz** : [1주 차 Quiz Link](https://forms.gle/NhgsbUYVLqRW15157)
 
+**2주 차** : [03장 분류](https://docs.google.com/presentation/d/1CvyL3EVgHQKlXW1z4RgCl99yJDVgRF9XYaO--u5aD2A/edit?usp=sharing)
+
+**2주 차 Quiz** : [2주 차 Quiz Link](https://forms.gle/wtBTTss5mCEP48aV9)
+
 <br>
 
 ### 실습하면서 생각하기
@@ -78,7 +82,7 @@
 
 **2주 차**
 
-파이프라인을 구축하는 것을 목표로 한 프로젝트입니다.
+파이프라인을 구축하는 방법을 숙지한 프로젝트입니다.
 
 **Misson 01**  Mnist 데이터셋으로 분류기를 만들어 테스트 세트에서 97% 달성하기
 
