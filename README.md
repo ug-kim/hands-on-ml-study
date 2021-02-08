@@ -83,6 +83,10 @@
 
 파이프라인을 구축하는 방법을 숙지한 프로젝트입니다.
 
+spam\_filter는 한번 해보는 것을 추천합니다. 
+
+> 이메일을 파싱하는 작업은 간단하다고 생각했지만 실제로 해보니 도메인에 대한 지식없이는 좀 버겁다는 것을 알게되었습니다.
+
 **Misson 01** Mnist 데이터셋으로 분류기를 만들어 테스트 세트에서 97% 달성하기
 
 - [template](https://colab.research.google.com/drive/1Y_UR4Okafi5UWnq1iKiQnDRq9nrciQKq?usp=sharing)
@@ -93,3 +97,7 @@
 - [template](https://deepnote.com/publish/834148fc-607e-4192-9c5b-e42792bd31ac)
 - [건모\_T1003, 서윤\_T1088](https://deepnote.com/project/01e779cf-7c56-4122-b7fd-39f6430c671b)
 - [성준\_T1198, 유지\_T1029](https://deepnote.com/project/a56543a1-19b8-4505-820d-35e9bebfdea4#%2Fnotebook.ipynb)
+
+**spam filter**
+
+- [건모\_T1003](https://colab.research.google.com/drive/1MJMYK0bZ6UVbmqRLOrzYyrlDSWdsz3JM?usp=sharing)
