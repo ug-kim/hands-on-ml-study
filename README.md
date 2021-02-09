@@ -117,4 +117,5 @@ Cats and Dogs Classify를 진행했습니다.
 
 > 두 시간 안에 약 98%의 정확도에 도달하는 모델을 구현했습니다.
 
+- [template](https://colab.research.google.com/drive/1a6Xt2c4OpIjv_qzob36YxfNKuvLnc9hc?usp=sharing)
 - [건모\_T1003](https://colab.research.google.com/drive/1SrN6FlqB3gdppFreb7ArdGYLt15UNvGR?usp=sharing)
