@@ -115,6 +115,6 @@ Cats and Dogs Classify를 진행했습니다.
 
 목표로 하였던 것은 **이미 알고 있는 지식**들과  **이미 구현된 함수**를 조합해서 빠르게 Baseline을 만드는 것이였습니다.
 
-> 실제로 두 시간 내외로 약 98%의 정확도에 도달하는 모델을 구현했습니다.
+> 두 시간 안에 약 98%의 정확도에 도달하는 모델을 구현했습니다.
 
 - [건모\_T1003](https://colab.research.google.com/drive/1SrN6FlqB3gdppFreb7ArdGYLt15UNvGR?usp=sharing)
