@@ -103,7 +103,7 @@
 
 - [template](https://deepnote.com/publish/834148fc-607e-4192-9c5b-e42792bd31ac)
 - [건모\_T1003, 서윤\_T1088](https://deepnote.com/project/01e779cf-7c56-4122-b7fd-39f6430c671b)
-- [성준\_T1198, 유지\_T1029](https://deepnote.com/project/a56543a1-19b8-4505-820d-35e9bebfdea4#%2Fnotebook.ipynb)
+- [성진\_T1198, 유지\_T1029](https://deepnote.com/project/a56543a1-19b8-4505-820d-35e9bebfdea4#%2Fnotebook.ipynb)
 
 **Spam Filter**
 
