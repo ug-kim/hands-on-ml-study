@@ -73,6 +73,10 @@
 
 **2주 차 Quiz** : [2주 차 Quiz Link](https://forms.gle/wtBTTss5mCEP48aV9)
 
+**3주 차** : [04장 모델 훈련](https://docs.google.com/presentation/d/1hKvXCCQ711qc8WHH3tA3Ck3D-K0T9Ik9eUMXkXagR6A/edit?usp=sharing)
+
+**3주 차 Quiz** : [3주 차 Quiz Link](https://forms.gle/mvz63HsVpL5wsYRz6)
+
 <br>
 
 ### 실습하면서 생각하기
@@ -119,3 +123,7 @@ Cats and Dogs Classify를 진행했습니다.
 
 - [template](https://colab.research.google.com/drive/1a6Xt2c4OpIjv_qzob36YxfNKuvLnc9hc?usp=sharing)
 - [건모\_T1003](https://colab.research.google.com/drive/1SrN6FlqB3gdppFreb7ArdGYLt15UNvGR?usp=sharing)
+
+#### 4주 차
+
+Gensim을 활용한 `w2v`, `fasttext`, `glove` 테스트입니다.
