@@ -77,6 +77,14 @@
 
 **3주 차 Quiz** : [3주 차 Quiz Link](https://forms.gle/mvz63HsVpL5wsYRz6)
 
+**4주 차** : [05장 서포트 벡터 머신](https://docs.google.com/presentation/d/1pd_Qm2gHY_3NBOL0pZaQb4ZkjrZCzUYRHCetKNk8aAg/edit?usp=sharing)
+
+**4주 차 Quiz** : [4주 차 Quiz Link](https://forms.gle/6dZGKB4UZ9mKyqzt9)
+
+**5주 차** : [06장 결정트리]()
+
+**5주 차 Quiz** : [5주 차 Quiz Link]()
+
 <br>
 
 ### 실습하면서 생각하기
@@ -126,4 +134,23 @@ Cats and Dogs Classify를 진행했습니다.
 
 #### 4주 차
 
-Gensim을 활용한 `w2v`, `fasttext`, `glove` 테스트입니다.
+이번 주는 `gensim` 라이브러리의 `w2v`, `fasttext`를 사용하여 단어들의 임베딩을 학습하고 시각화를 진행해보는 시간을 가졌습니다.
+
+그리고 `pytorch`를 사용해서 `w2v`을 구현해보는 시간또한 가졌습니다.
+
+- [template](https://colab.research.google.com/drive/1JKlmw49AU3QE25oj6SDQjfR4dSqNTebt?usp=sharing)
+- [건모\_T1003](https://colab.research.google.com/drive/1Mwbnw6r6AugiTpmfNB8q3q-meiZXps5a?usp=sharing)
+
+#### 5주 차
+
+이번 주는 현업에서 추천시스템이 어떻게 동작하는지 배웠습니다.
+
+**학습 목표**
+
+- 추천 시스템 파이프라인을 이해한다.
+- 전처리 과정과 후처리 과정을 이해한다.
+- Item2Vec을 이해한다.
+- RankFusion기법을 이해한다.
+- 추천시스템의 성능지표를 이해한다. (A/B 테스팅)
+
+#### 6주 차
