@@ -83,7 +83,7 @@
 
 **5주 차** : [06장 결정트리]()
 
-**5주 차 Quiz** : [5주 차 Quiz Link]()
+**5주 차 Quiz** : [5주 차 Quiz Link](https://forms.gle/DqXVLuvRbaRiFHjEA)
 
 <br>
 
@@ -152,5 +152,3 @@ Cats and Dogs Classify를 진행했습니다.
 - Item2Vec을 이해한다.
 - RankFusion기법을 이해한다.
 - 추천시스템의 성능지표를 이해한다. (A/B 테스팅)
-
-#### 6주 차
