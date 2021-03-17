@@ -73,6 +73,30 @@
 
 **2주 차 Quiz** : [2주 차 Quiz Link](https://forms.gle/wtBTTss5mCEP48aV9)
 
+**3주 차** : [04장 모델 훈련](https://docs.google.com/presentation/d/1hKvXCCQ711qc8WHH3tA3Ck3D-K0T9Ik9eUMXkXagR6A/edit?usp=sharing)
+
+**3주 차 Quiz** : [3주 차 Quiz Link](https://forms.gle/mvz63HsVpL5wsYRz6)
+
+**4주 차** : [05장 서포트 벡터 머신](https://docs.google.com/presentation/d/1pd_Qm2gHY_3NBOL0pZaQb4ZkjrZCzUYRHCetKNk8aAg/edit?usp=sharing)
+
+**4주 차 Quiz** : [4주 차 Quiz Link](https://forms.gle/6dZGKB4UZ9mKyqzt9)
+
+**5주 차** : [06장 결정트리](https://docs.google.com/presentation/d/18KlANmr2L0lXwKeHaAc7QF77Y4S62irdmrDpVzmtvdk/edit?usp=sharing)
+
+**5주 차 Quiz** : [5주 차 Quiz Link](https://forms.gle/DqXVLuvRbaRiFHjEA)
+
+**6주 차** : [07장 앙상블 학습과 랜덤 포레스트](https://docs.google.com/presentation/d/1HD4zuaeFEh2JOPpQhq8kCjoogeEebnCOKAztji8CuAk/edit?usp=sharing)
+
+**6주 차 Quiz** : [6주 차 Quiz Link]()
+
+**7주 차** : [08장 차원 축소](https://docs.google.com/presentation/d/1_B_wLC3Y-FjHwA-c6gXYIVS-fqaR-dPRSJroBs7G2-0/edit?usp=sharing)
+
+**7주 차 Quiz** : [7주 차 Quiz Link]()
+
+**8주 차** : [09장 비지도 학습]()
+
+**8주 차 Quiz** : [8주 차 Quiz Link]()
+
 <br>
 
 ### 실습하면서 생각하기
@@ -119,3 +143,43 @@ Cats and Dogs Classify를 진행했습니다.
 
 - [template](https://colab.research.google.com/drive/1a6Xt2c4OpIjv_qzob36YxfNKuvLnc9hc?usp=sharing)
 - [건모\_T1003](https://colab.research.google.com/drive/1SrN6FlqB3gdppFreb7ArdGYLt15UNvGR?usp=sharing)
+
+#### 4주 차
+
+이번 주는 `gensim` 라이브러리의 `w2v`, `fasttext`를 사용하여 단어들의 임베딩을 학습하고 시각화를 진행해보는 시간을 가졌습니다.
+
+그리고 `pytorch`를 사용해서 `w2v`을 구현해보는 시간또한 가졌습니다.
+
+- [template](https://colab.research.google.com/drive/1JKlmw49AU3QE25oj6SDQjfR4dSqNTebt?usp=sharing)
+- [건모\_T1003](https://colab.research.google.com/drive/1Mwbnw6r6AugiTpmfNB8q3q-meiZXps5a?usp=sharing)
+
+#### 5주 차
+
+이번 주는 현업에서 추천시스템이 어떻게 동작하는지 배웠습니다.
+
+**학습 목표**
+
+- 추천 시스템 파이프라인을 이해한다.
+- 전처리 과정과 후처리 과정을 이해한다.
+- Item2Vec을 이해한다.
+- RankFusion기법을 이해한다.
+- 추천시스템의 성능지표를 이해한다. (A/B 테스팅)
+
+#### 6주 차
+
+이번 주는 `torchensemble` 라이브러리를 사용하여 모델의 앙상블을 진행했습니다.
+
+- [template](https://colab.research.google.com/drive/1xdUQ9WgFzKRUyCAIKZm6U2WRwKcUdHGp?usp=sharing)
+
+#### 7주 차
+
+이번 주는 `autoencoder` 모델을 직접 구현 해보는 시간을 가졌습니다.
+
+- `Dataset`, `DataLoader` 클래스 사용법을 익힙니다.
+- `nn.Module`을 사용하여 `AutoEncoder`클래스를 직접 구현합니다.
+- `transforms`를 사용하여 `image`데이터의 자동 변환을 구현합니다.
+- `train`과 `evaluate`함수를 직접 구현하여 `pytorch`의 모델 구현 패턴을 익힙니다.
+- `TSNE`을 사용하여 학습된 `manifold`를 시각화합니다
+
+- [template](https://colab.research.google.com/drive/155DprB_ZCdCKScxZHEEtP-a-sY-b3Axi?usp=sharing)
+- [건모\_T1003](https://colab.research.google.com/drive/1BM_1ps_mtXOL_gZwI_uSjjelC2EYc3Wd?usp=sharing)
